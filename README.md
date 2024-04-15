@@ -68,7 +68,7 @@ For detailed documentation regarding the website's design, functionality, and de
 
 ### Video Demonstration:
 
-[Watch the video demonstration of the website's features](link_to_video)
+[Watch the video demonstration of the website's features](https://drive.google.com/file/d/1vlMG_wOdpL4LhMKu6eB7sJoha7J_0yWp/view?usp=share_link)
 
 ---
 
