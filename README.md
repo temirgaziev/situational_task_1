@@ -28,7 +28,7 @@ This project entails the design and development of a responsive website using Re
 
 ### Deployment Process:
 
-1. Clone the repository from GitHub: [PixelPerfect-Website](github.com/pixelperfect-solutions/pixelperfect-website)
+1. Clone the repository from GitHub: [PixelPerfect-Website](https://github.com/temirgaziev/situational_task_1.git)
 
    ```
    git clone https://github.com/pixelperfect-solutions/pixelperfect-website.git
@@ -60,9 +60,9 @@ For detailed documentation regarding the website's design, functionality, and de
 
 ### Screenshots:
 
-[![Screenshot 1](/path/to/screenshot1.png)](link_to_screenshot1)
-[![Screenshot 2](/path/to/screenshot2.png)](link_to_screenshot2)
-[![Screenshot 3](/path/to/screenshot3.png)](link_to_screenshot3)
+![Screenshot 1](https://github.com/temirgaziev/situational_task_1/blob/main/screenshots/Снимок%20экрана%202024-04-15%20в%2014.02.57.png)
+![Screenshot 2](https://github.com/temirgaziev/situational_task_1/blob/main/screenshots/Снимок%20экрана%202024-04-15%20в%2014.04.04.png)
+![Screenshot 3](https://github.com/temirgaziev/situational_task_1/blob/main/screenshots/Снимок%20экрана%202024-04-15%20в%2014.03.09.png)
 
 ---
 
